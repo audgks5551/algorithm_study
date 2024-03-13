@@ -1,6 +1,5 @@
 package lessons;
 
-import org.assertj.core.api.Assertions;
 import org.example.lessons.Solution12932;
 import org.junit.jupiter.api.Test;
 
